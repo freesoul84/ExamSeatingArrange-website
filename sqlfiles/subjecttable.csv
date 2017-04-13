@@ -1,0 +1,85 @@
+I,Mechanical Eningeering,Human Rights,BH201
+I,Mechanical Eningeering,Engineering Mathematcis II,BH202
+I,Mechanical Eningeering,Engineering Physics II,BH203
+I,Mechanical Eningeering,Engineering Chemistry II,BH204
+I,Mechanical Eningeering,Engineering Mechanics,EM205
+I,Mechanical Eningeering,Electrical Engineering,ID206
+I,Mechanical Eningeering,Mechanical Engineering :Programming,CL207
+I,Chemical Engineering,Human Rights,BH201
+I,Chemical Engineering,Engineering Mathematcis II,BH202
+I,Chemical Engineering,Engineering Physics II,BH203
+I,Chemical Engineering,Engineering Chemistry II,BH204
+I,Chemical Engineering,Engineering Mechanics,EM205
+I,Chemical Engineering,Electrical Engineering,ID206
+I,Chemical Enigineering,Chemical Engineering :Programming,CH207
+I,Computer Enigineering,Human Rights,BH201
+I,Computer Enigineering,Engineering Mathematcis II,BH202
+I,Computer Enigineering,Engineering Physics II,BH203
+I,Computer Enigineering,Engineering Chemistry II,BH204
+I,Computer Enigineering,Basic Civil Engineering,CV205
+I,Computer Enigineering,Basic Mechanical Engineering,ME206
+I,Computer Enigineering,Engineering Graphics,ME207
+I,Computer Enigineering,Basic Software and Programming,CE208
+I,Civil Engineering,Human Rights,BH201
+I,Civil Engineering,Engineering Mathematcis II,BH202
+I,Civil Engineering,Engineering Physics II,BH203
+I,Civil Engineering,Engineering Chemistry II,BH204
+I,Civil Engineering,Engineering Mechanics,EM205
+I,Civil Engineering,Electrical Engineering,ID206
+I,Civil Engineering,Civil Engineering :Programming and software,CV207
+II,Mechanical Eningeering,Manufacturing Process I,ME401
+II,Mechanical Eningeering,Theory of Machines and Mechanism I,ME402
+II,Mechanical Eningeering,Machine Design I,ME403
+II,Mechanical Eningeering,Applied Thrmodynamics,ME404
+II,Mechanical Eningeering,Elective I(Renuable Energy Sources),ME405
+II,Chemical Engineering,Thermodynamics I,CHE401
+II,Chemical Engineering,Heat Transfer Operations,CHE402
+II,Chemical Engineering,Introduction to Bioprocess Engineering ,CHE403
+II,Chemical Engineering,Process Plant Utilities and Safety,CHE404
+II,Chemical Engineering,Elective I(Nanotechnology Fundamentals),CHE405
+II,Computer Enigineering,Probability Satistic and Queing Theory,CE401
+II,Computer Enigineering,Data Communication,CE402
+II,Computer Enigineering,Microprocessors and Micrrocontrollers,CE403
+II,Computer Enigineering,Data Structures,CE404
+II,Computer Enigineering,Elective I(infromation system analysis and design),CE405
+II,Civil Engineering,Hydrulic Enigneering II,CV401
+II,Civil Engineering,Structure Mechanics,CV402
+II,Civil Engineering,Surveying II,CV403
+II,Civil Engineering,Water Resource Engineering I,CV404
+II,Civil Engineering,Elecctive I(Systems Engineering),CV405
+III,Mechanical Eningeering,Manufacturing Process III,ME601
+III,Mechanical Eningeering,Dynamics of Machines,ME602
+III,Mechanical Eningeering,Machine Design III,ME603
+III,Mechanical Eningeering,I.C Engines and Fluid Machinary,ME604
+III,Mechanical Eningeering,Elective III(Numerical Methods of engg),ME605
+III,Chemical Engineering,Mass Transfer Operations II,CHE601
+III,Chemical Engineering,Chemical Recation Engineering I,CHE602
+III,Chemical Engineering,Process Instrumentation,CHE603
+III,Chemical Engineering,Organic Chemical Technology,CHE604
+III,Chemical Engineering,Elecctive III(Corrosion Engineering),CHE605
+III,Computer Enigineering,Software Engineering,CE601
+III,Computer Enigineering,Computer Networks,CE602
+III,Computer Enigineering,Principle of Compiler Design,CE603
+III,Computer Enigineering,Computer Graphics,CE604
+III,Computer Enigineering,Elective III( Human Computer Interaction),CE605
+III,Civil Engineering,Design of Concrete Structure I,CV601
+III,Civil Engineering,Transportation Engineering I,CV602
+III,Civil Engineering,Foundation Engineering,CV603
+III,Civil Engineering,Concrete Engineering,CV604
+III,Civil Engineering,Elective III(Advance Solid Mechanics),CV605
+IV,Mechanical Eningeering,Mechatronics,ME801
+IV,Mechanical Eningeering,Power Plant Technology,ME802
+IV,Mechanical Eningeering,Industrial Technology and Management,ME803
+IV,Mechanical Eningeering,Elective V(Tool Design),ME804
+IV,Chemical Engineering,Trasport Phenomena,CHE801
+IV,Chemical Engineering,Pollution Control in Process Industries,CHE802
+IV,Chemical Engineering,Elective V(Petrochem refining and Pectrochem),CHE803
+IV,Chemical Engineering,"Process Design,Flow Sheeting and Simulation",CHE804
+IV,Computer Enigineering,Infroamtion Security,CE801
+IV,Computer Enigineering,Distributed System,CE802
+IV,Computer Enigineering,Software Testing,CE803
+IV,Computer Enigineering,Elective IV(Intelligence),CE804
+IV,Civil Engineering,Introduction to earthquake Engineering,CV801
+IV,Civil Engineering,Project Management,CV802
+IV,Civil Engineering,Construction Technique,CV803
+IV,Civil Engineering,Elecctive V(Advance Engineering geology),CV804
