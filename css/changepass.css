@@ -1,0 +1,46 @@
+.img-circle {
+    border-radius: 100%;
+}
+
+html,body {
+  height:100%;
+  width:100%;
+  margin:0;
+}
+body , body {
+  display:flex;
+}
+.form-horizontal{
+  margin:auto;
+}
+
+.panel-default
+{
+  margin-top: 140px;
+  margin-left: 10px;
+  margin-right: 0px;
+  margin-bottom:auto;
+  padding-left: 50px;
+  padding-right:50px;
+  padding-bottom:50px;
+  padding-top:50px;
+  border-radius: 20px;
+  border: 2px solid skyblue;
+  background-image: url(display.jpg) !important;
+  background-size: cover;
+}
+
+.passcg{
+border-radius: 20px;
+
+}
+.back-button{
+    margin-top: 10px;
+    border-radius: 20px;
+    background-color: white;
+    border :1.5px solid skyblue;
+    height: 5%;
+    margin-left: 10px;
+    color: black;
+
+}

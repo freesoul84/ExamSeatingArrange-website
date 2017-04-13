@@ -1,0 +1,57 @@
+
+.container{
+  margin-top: 30px;
+  margin-bottom: 30px
+}
+div.panelsub
+{
+    padding-bottom:0px;
+margin-bottom: 1px;
+margin-top: 30px;
+border: 2px solid skyblue;
+border-radius: 20px;
+background-image: url(d3.jpg) !important;
+background-size: cover;
+}
+div.panelcon{
+  margin-bottom: 40px;
+  border: 2px solid skyblue;
+  background-image: url(d3.jpg) !important;
+  background-size: cover;
+  border-radius: 20px;
+
+}
+tr.main-heading{
+column-fill: balance;
+font-style:oblique;;
+background-color: pink;
+color: black;
+}
+
+div.textstyle{
+  column-span: 5;
+
+}
+div.yearheading{
+  background-color: skyblue;
+}
+.panel{
+  background-image: url(d3.jpg) !important;
+background-size: cover;
+border-radius: 20px;
+}
+.back-button{
+    margin-top: 10px;
+    border-radius: 20px;
+    background-color: white;
+    border :1.5px solid skyblue;
+    height: 5%;
+    margin-left: 10px;
+    color: black;
+
+
+}
+.glyphicon-eye-open{
+  margin-left: 1000px;
+  margin-top: 10px;
+}

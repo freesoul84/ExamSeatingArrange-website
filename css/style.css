@@ -1,0 +1,20 @@
+.no-margin{
+  margin: 0 px;
+}
+.no-padding{
+  padding: 0 px;
+}
+#img_container {
+    position:relative;
+    display:inline-block;
+    text-align:center;
+    border:1px solid red;
+}
+
+.button {
+    position:absolute;
+    bottom:10px;
+    right:10px;
+    width:100px;
+    height:30px;
+}

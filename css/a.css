@@ -1,0 +1,94 @@
+body{margin:40px;}
+
+
+.btn-circle {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  padding: 6px 0;
+  font-size: 12px;
+  line-height: 1.428571429;
+  border-radius: 15px;
+background-color: red;
+}
+.btn-stackoverflow{
+  background-color: #D38B28;
+}
+.btn-google {
+  background-color: #c32f10;
+}
+.centered-text{
+  text-align: center;
+}
+.btn-facebook {
+background-color: #3b5998;
+}
+.btn-linkedin {
+background-color:#0e76a8;
+}
+.btn-github{
+  background-color:#000000;
+}
+.container
+{
+  display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.social-btn-holder{
+  padding:10px;
+  margin-top:5px;
+  margin-bottom:5px;
+}
+.social-btn-holder .btn-social{
+  font-size:12px;
+  font-weight:bold;
+}
+.btn-social{
+  color: white;
+  opacity:0.9;
+}
+.btn-social:hover {
+  color: white;
+  opacity:1;
+}
+
+
+
+div.panel-default
+{
+  border-style: solid;
+  border-width: 2px;
+  border-color: skyblue;
+  border-radius: 20px;
+  background-image: url(display.jpg) !important;
+}
+div.panel-footer
+{
+  border-style: solid;
+  border-width: 2px;
+  border-color: skyblue;
+  background-image: url(display.jpg) !important;
+  border-radius: 30px;
+
+}
+span.add,span.textcolor{
+font-weight: bold;
+color: black;
+}
+a.link
+{
+  color: black;
+}
+.back-button{
+    border-radius: 20px;
+    background-color: white;
+    border :1.5px solid skyblue;
+    height: 5%;
+    margin-top: -30px;
+    margin-left:-20px;
+    color: black;
+
+}

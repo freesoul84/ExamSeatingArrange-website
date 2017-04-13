@@ -1,0 +1,27 @@
+div.panel{
+  margin-top: 40px;
+margin-bottom: 20px;
+padding-bottom: -20px;
+background-image: url(display.jpg) !important;
+background-size: cover;
+border-radius: 20px;
+border:2px solid skyblue;
+}
+.textstyle{
+  font-size: 17px;
+}
+.back-button{
+    margin-top: 10px;
+    border-radius: 20px;
+    background-color: white;
+    border :1.5px solid skyblue;
+    height: 5%;
+    margin-left: 10px;
+    color: black;
+
+}
+.glyphicon-eye-open{
+  margin-left: 1100px;
+  margin-top: 10px;
+
+}

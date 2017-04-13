@@ -1,0 +1,42 @@
+
+html,body {
+  height:100%;
+  width:100%;
+  margin:0;
+}
+body , body {
+  display:flex;
+}
+.form-horizontal{
+  margin:auto;
+}
+
+div.panel-default
+{
+
+
+  margin-top: 160px;
+  margin-left: -10px;
+  margin-right: 0px;
+  margin-bottom:auto;
+  padding: 30px 30px 30px 30px;
+  border: 2px solid skyblue;
+  border-radius: 2em;
+  background-image: url(display.jpg) !important;
+}
+td.textstyle{
+  color: black;
+}
+a.link{
+  color: red;
+}
+.back-button{
+    margin-top: 10px;
+    border-radius: 20px;
+    background-color: white;
+    border :1.5px solid skyblue;
+    height: 5%;
+    margin-left: 10px;
+    color: black;
+
+}

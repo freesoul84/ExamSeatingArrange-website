@@ -1,0 +1,29 @@
+
+html,body {
+  height:100%;
+  width:100%;
+  margin:0;
+}
+body , body {
+  display:flex;
+}
+.form-horizontal{
+  margin:auto;
+}
+
+.panel-default
+{
+  margin-top: 170px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom:auto;
+  padding: 30px 30px 30px 30px;
+  border: 2px solid grey;
+}
+
+.panel-transparent .panel-body{
+    background: rgba(122, 130, 136, 0.2)!important;
+}
+.panel-transparent {
+	background: none;
+}

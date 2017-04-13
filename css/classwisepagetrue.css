@@ -1,0 +1,20 @@
+
+.container{
+  position: absolute;
+  top: 50%;
+  margin-top: -150px;
+  left:auto;
+  width:100%;
+}
+.content
+{
+  margin: auto;
+  width: 70%;
+}
+.panel-transparent {
+	background: none;
+}
+div.panel-body{
+  background-image: url(backimg.jpg) !important;
+    border-radius: 20px;
+}

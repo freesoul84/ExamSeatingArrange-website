@@ -1,0 +1,37 @@
+
+.container{
+  position: absolute;
+  top: 65%;
+  margin-top: -220px;
+  left:auto;
+  width:100%;
+
+
+}
+.content
+{
+  margin: auto;
+  width: 60%;
+}
+.panel-transparent {
+	background: none;
+}
+.panel-transparent .panel-body{
+
+}
+
+div.panel-default{
+  background-image : url(display.jpg) !important;
+  border-radius: 20px;
+}
+.btn-success{
+  border-radius: 30px;
+}
+.btn-sm{
+  margin-top: 10px;
+  border-radius: 20px;
+  background-color: white;
+  margin-right: 20px;
+  margin-left: 10px;
+  border :1px solid skyblue;
+}

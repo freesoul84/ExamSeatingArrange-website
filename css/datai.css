@@ -1,0 +1,81 @@
+/*.navbar {
+   background-color: transparent;
+   background: transparent;
+   border-color: transparent;
+}
+
+.navbar li { color: #000 }
+*/
+html,body {
+  height:100%;
+  width:100%;
+  margin:0;
+  background-image : url(panelimage.jpg) !important;
+  background-size: cover;
+}
+body , body {
+  display:flex;
+}
+.form-horizontal{
+  margin:auto;
+}
+.form-control
+{
+  width: 160px;
+vertical-align: center;
+margin-left: 30px;
+margin-bottom:20px;
+}
+div.panel-default
+{
+  margin-top: 50px;
+  margin-left: -20px;
+  margin-right: -70px;
+  margin-bottom:40px;
+padding-right: 50px;
+border:2px solid skyblue;
+
+border-radius: 20px;
+
+}
+.enroll-control
+{
+  margin-left: 30px;
+color: black;
+}
+.to-control
+{
+  margin-left:20px;
+  color: black;
+}
+.class-control
+{
+  margin-left: 30px;
+  color: black;
+}
+.cl-control
+{
+  margin-left: 30px;
+  color: black;
+}
+.sub-control
+{
+  margin-left: 30px;
+  color: black;
+}
+.heading-control{
+  margin-top: 50px;
+}
+div.text-control{
+color: black;
+}
+input[readonly]{
+  background-color: transparent;
+  border: 0;
+  font-size: 1em;
+}
+.btn-success{
+  border-radius: 30px;
+  margin-left: 50px;
+
+}
