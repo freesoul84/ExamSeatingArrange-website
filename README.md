@@ -13,4 +13,4 @@ This one is develop using HTML , bootstrap and LAMP(Linux ,Apache ,MySQL , PHP).
 Some changes could be done here to make it more reliable and more automatic like sending a msg to student for their ex.hall and timetable etc.
 
 Activity diagram for this project :
-![Activity Diagram](image.png)
+![Activity Diagram](exam_seating_images/8.jng)
