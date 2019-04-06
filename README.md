@@ -24,6 +24,7 @@ Some changes could be done here to make it more reliable and more automatic like
 database look like -
 ![trial database](photos/trial_database.png)
 <br/>
+
 - add csv file according to your college student detail and subject detail in each sql table.(check format of students_detail.csv file in studenttable.sql and format of subject_detail.csv file in subjecttable.sql  in phpmyadmin 
 
 *for example of adding student detail-*
