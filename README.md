@@ -38,7 +38,7 @@ upload this csv file to its respective table.
 
 ![firstpage](photos/1.png)
 <br/>
-
+- seating arrangement filling
 ![secondpage](photos/3.png)
 
 
