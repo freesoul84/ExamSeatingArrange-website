@@ -13,6 +13,10 @@ This one is develop using HTML , bootstrap and LAMP(Linux ,Apache ,MySQL , PHP).
 Some changes could be done here to make it more reliable and more automatic like sending a msg to student for their ex.hall and timetable etc.
 
 Requirements to run this are : LAMP/XAMPP/WAMP ,PhpMyAdmin
+<br/>
+Please restart apache2 using-
+```sudo service apache2 restart```
+
 
 - **Activity Diagram**
 ![Activity Diagram](exam_seating_images/8.jpg)
@@ -21,7 +25,7 @@ Requirements to run this are : LAMP/XAMPP/WAMP ,PhpMyAdmin
 
 ## Instructions
 
-##### important-x As I used PHP hence move this repository in */var/www/html* folder. 
+##### important- As I used PHP hence move this repository in */var/www/html* folder. 
 #### Admin :
 - Please change Password in phpmyadmin because I have use **alkesha15** as password.If you don't want to change phpmyadmin password then please change password in each php file and update it same as your password
 
