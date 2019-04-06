@@ -1,5 +1,5 @@
 # exam-seating-arrangement-system
-I had created this project as my Software Engineering Project in 6th Semester.
+**I had created this project as my Software Engineering Project in 6th Semester.**
 During exam period it is very hectic task to find out where is your examination hall and on which seat would allocate 
 to a perticular student.This is an web application develop to help student to find out their respective examination hall during semester exam.
 This would also shows the respective seat of a student in a perticular row and also the schedule of their examination.
