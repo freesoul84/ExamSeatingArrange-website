@@ -36,7 +36,7 @@ database look like -
 ![trial database](photos/trial_database.png)
 <br/>
 
-- add csv file according to your college studentdetail.csv(as I have created only sample student data here but in real project I had used data provided by my college) and subjectdetail.csv in respective sql table.(check format of studenttable.csv file in studenttable.sql and format of subjecttable.csv file in subjecttable.sql  in phpmyadmin OR you can check format in give subjecttable.csv and studenttable.csv files from folder sqlfie in this repository)
+- add csv file according to your college studentdetail.csv(As I have created only sample student data here but in real project I had used data provided by my college) and subjectdetail.csv in respective sql table.(check format of studenttable.csv file in studenttable.sql and format of subjecttable.csv file in subjecttable.sql  in phpmyadmin OR you can check format in give subjecttable.csv and studenttable.csv files from folder sqlfie in this repository)
 upload this csv file to its respective table.
 
 - admin username and password of exam seating arrangement site is :
