@@ -18,6 +18,7 @@ Some changes could be done here to make it more reliable and more automatic like
 
 
 ## Instructions
+#### Admin :
 - Please change Password in phpmyadmin because I have use **alkesha15** as password.If you don't want to change phpmyadmin password then please change password in each php file and update it same as your password
 
 - In PhpMyadmin create **trial** database and import all sql files given in folder sqlfile in this repository
@@ -41,4 +42,9 @@ upload this csv file to its respective table.
 - seating arrangement filling
 ![secondpage](photos/3.png)
 
-
+<br/>
+#### User :
+![firstpage](photos/se2.png)
+<br/>
+![search page](photos/se1.png)
+<br/>
