@@ -15,7 +15,8 @@ Some changes could be done here to make it more reliable and more automatic like
 Requirements to run this are : LAMP/XAMPP/WAMP ,PhpMyAdmin
 <br/>
 Please restart apache2 using-
-```sudo service apache2 restart```
+```sudo service apache2 restart
+```
 
 
 - **Activity Diagram**
@@ -27,7 +28,7 @@ Please restart apache2 using-
 
 ##### important- As I used PHP hence move this repository in */var/www/html* folder. 
 #### Admin :
-- Please change Password in phpmyadmin because I have use **alkesha15** as password.If you don't want to change phpmyadmin password then please change password in each php file and update it same as your password
+- Please change Password in phpmyadmin because I have used **alkesha15** as password.If you don't want to change phpmyadmin password then please change password in each php file and update it same as your password.
 
 - In PhpMyadmin create **trial** database and import all sql files given in folder sqlfile in this repository
 database look like -
@@ -61,3 +62,4 @@ upload this csv file to its respective table.
 ![search page](photos/se1.png)
 
 <br/>
+
