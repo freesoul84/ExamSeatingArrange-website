@@ -18,6 +18,8 @@ Some changes could be done here to make it more reliable and more automatic like
 
 
 ## Instructions
+
+##### important* As I used PHP hence move this repository in */var/www/html* folder. 
 #### Admin :
 - Please change Password in phpmyadmin because I have use **alkesha15** as password.If you don't want to change phpmyadmin password then please change password in each php file and update it same as your password
 
