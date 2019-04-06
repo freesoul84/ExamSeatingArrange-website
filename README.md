@@ -44,7 +44,11 @@ upload this csv file to its respective table.
 
 <br/>
 #### User :
+
 ![firstpage](photos/se2.png)
+
 <br/>
+
 ![search page](photos/se1.png)
+
 <br/>
