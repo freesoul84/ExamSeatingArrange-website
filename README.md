@@ -25,8 +25,13 @@ database look like -
 ![trial database](photos/trial_database.png)
 <br/>
 
-- add csv file according to your college student detail and subject detail in each sql table.(check format of students_detail.csv file in studenttable.sql and format of subject_detail.csv file in subjecttable.sql  in phpmyadmin 
+- add csv file according to your college student detail(as I have created only sample student data here but in real project I had used data provided by my college) and subject detail in each sql table.(check format of studenttable.csv file in studenttable.sql and format of subjecttable.csv file in subjecttable.sql  in phpmyadmin.)
+upload this csv file to its respective table.
 
-*for example of adding student detail-*
+- admin username and password of exam seating arrangement site is :
+  **username**:user 
+  **password**:user
+  
+- after that you can Add exam seating arrangement accordingly
 
 
