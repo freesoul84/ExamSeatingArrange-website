@@ -26,16 +26,16 @@ Please restart apache2 using-
 
 ## Instructions
 
-##### important- As I used PHP hence move this repository in */var/www/html* folder. 
+##### important- As I used PHP hence move this repository in */var/www/html* folder in your PC(this is for Linux). 
 #### Admin :
 - Please change Password in phpmyadmin because I have used **alkesha15** as password.If you don't want to change phpmyadmin password then please change password in each php file and update it same as your password.
 
-- In PhpMyadmin create **trial** database and import all sql files given in folder sqlfile in this repository
+- In PhpMyadmin create **trial** database and import all sql files given from folder sqlfile in this repository
 database look like -
 ![trial database](photos/trial_database.png)
 <br/>
 
-- add csv file according to your college student detail(as I have created only sample student data here but in real project I had used data provided by my college) and subject detail in each sql table.(check format of studenttable.csv file in studenttable.sql and format of subjecttable.csv file in subjecttable.sql  in phpmyadmin.)
+- add csv file according to your college studentdetail.csv(as I have created only sample student data here but in real project I had used data provided by my college) and subjectdetail.csv in respective sql table.(check format of studenttable.csv file in studenttable.sql and format of subjecttable.csv file in subjecttable.sql  in phpmyadmin OR you can check format in give subjecttable.csv and studenttable.csv files from folder sqlfie in this repository)
 upload this csv file to its respective table.
 
 - admin username and password of exam seating arrangement site is :
