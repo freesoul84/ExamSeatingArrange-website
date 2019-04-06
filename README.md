@@ -31,11 +31,14 @@ upload this csv file to its respective table.
 - admin username and password of exam seating arrangement site is :
   **username**:user 
   **password**:user
+  
   ![adminpage](photos/admin.png)
   <br/>
 - after that you can Add exam seating arrangement accordingly
+
 ![firstpage](photos/1.png)
 <br/>
+
 ![secondpage](photos/3.png)
 
 
