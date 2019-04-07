@@ -26,8 +26,8 @@
    </center>
    <br>
 
-   <center><label>Sumedha Deshpande</label></center>
-   <center><label>Lonere,Raigad</label></center>
+   <center><label>A Name</label></center>
+   <center><label>Raigad</label></center>
 
           </div>
 </form>
