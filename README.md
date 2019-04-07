@@ -57,7 +57,7 @@ upload this csv file to its respective table.
 
 #### User :
 
-![firstpage](photos/se2.png)
+![firstpage](photos/front.png)
 
 <br/>
 
