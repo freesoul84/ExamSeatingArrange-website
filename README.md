@@ -33,7 +33,7 @@ Please restart apache2 using-
 #### Admin :
 - Please change Password in phpmyadmin because I have used **alkesha15** as password.If you don't want to change phpmyadmin password then please change password in each php file and update it same as your password.
 
-- In PhpMyadmin create **trial** database and import all sql files given from folder sqlfile in this repository
+- In PhpMyadmin create **trial** database and import all sql files given from folder **sqlfile** *in this repository*
 database look like -
 ![trial database](photos/trial_database.png)
 <br/>
