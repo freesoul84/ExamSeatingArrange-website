@@ -16,7 +16,7 @@ Some changes could be done here to make it more reliable and more automatic like
 
 Requirements to run this are : LAMP/XAMPP/WAMP ,PhpMyAdmin
 <br/>
-Please restart apache2 using-
+ Restart apache2 using-
 ```sudo service apache2 restart
 ```
 
@@ -66,5 +66,5 @@ upload this csv file to its respective table.
 <br/>
 
 **Note :**
-##### *If you use this application please please... kindly use your own database data.*
+##### *If you use this application please... kindly use your own database data.*
 
