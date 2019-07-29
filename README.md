@@ -30,7 +30,7 @@ Requirements to run this are : LAMP/XAMPP/WAMP ,PhpMyAdmin
 
 ##### important- As I used PHP hence move this repository in */var/www/html* folder in your PC(this is for Linux). 
 #### Admin :
-- Please change Password in phpmyadmin because I have used **alkesha15** as password.*If you don't want to change phpmyadmin password then please change password in each php file and update it same as your password.*(And this second option of changing password in each php file is more prefereable).
+- Please change Password in phpmyadmin because I have used **alkesha15** as password.*If you want to change phpmyadmin password then please change password in each php file and update it same as your password.*(And this second option of changing password in each php file is more prefereable).
 
 - In PhpMyadmin create database named **trial** in phpmyadmin and import all sql files given from folder **sqlfile** *present in this repository* to **trial** database in phpmyadmin.
 database look like -
