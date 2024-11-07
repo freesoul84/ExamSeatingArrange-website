@@ -1,5 +1,5 @@
 
-# exam-seating-arrangement-system
+# Exam-Seating-Arrangement-System
 **I had created this project as my Software Engineering Project in 6th Semester.**
 <br/>
 <br/>
